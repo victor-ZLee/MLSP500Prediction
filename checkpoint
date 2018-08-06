@@ -1,0 +1,5 @@
+model_checkpoint_path: "SP500model"
+all_model_checkpoint_paths: "SP500model-1302"
+all_model_checkpoint_paths: "SP500model-1352"
+all_model_checkpoint_paths: "SP500model-1402"
+all_model_checkpoint_paths: "SP500model"

@@ -1,0 +1,3 @@
+SP500model-*
+__pycache__/
+data_stocks.csv
